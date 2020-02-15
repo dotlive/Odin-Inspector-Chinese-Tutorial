@@ -1,5 +1,32 @@
-Library/
-Temp/
-Assets/Plugins/Sirenix/
-Logs/
-obj/
+# directories
+.gradle/
+.idea/
+.vs/
+[Aa]ssets/Framework/
+[Aa]ssets/Framework.meta
+[Aa]ssets/Plugins/Editor/
+[Aa]ssets/Plugins/Editor.meta
+[Ll]ibrary/
+[Ll]ogs
+[Oo]bj/
+[Oo]utput/
+[Pp]ackages/
+[Tt]emp/
+
+# files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.apk
+*.unitypackage
+*.log
+
